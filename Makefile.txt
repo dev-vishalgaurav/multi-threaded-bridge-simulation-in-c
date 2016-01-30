@@ -1,0 +1,5 @@
+CFLAGS=-Wall -g -lpthread -m32
+clean:
+	rm -f bridge
+all: bridge.c
+	gcc -o bridge bridge.c -lpthread -m32 

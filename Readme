@@ -1,0 +1,3 @@
+in terminal go to root folder which has files named "bridge.c and MakeFile".
+To compile and build "make clean all" 
+to run "./bridge" program will ask for initial number of cars for each direction and then it start simulation showing the tutorial to interpret print lines.
